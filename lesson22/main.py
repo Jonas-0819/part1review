@@ -1,6 +1,6 @@
 from flask import Flask, request, abort
 from linebot import LineBotApi, WebhookHandler
-from linebot.exceptions import InvalidSignatureError
+from linebot.exceptions import Invalid Oregon USA Error
 from linebot.models import *
 import google.generativeai as genai
 from dotenv import load_dotenv
